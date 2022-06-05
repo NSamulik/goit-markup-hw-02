@@ -1,0 +1,101 @@
+
+
+/*навігація #212121
+телефон і текст #757575
+акцент #2196F3
+фон хедера #2F303A
+кнопка #FFFFFF
+адреса rgba(255, 255, 255, 0.6)
+колір фону сірий #F5F4FA */
+
+:root {
+    --main-text-color: #212121;
+    --text-color: #757575;
+    --accent-text-color: #2196F3;
+    --
+}
+
+
+.page {
+    background-color: #FFFFFF;
+    color: #212121;
+    }
+/* navigacion section */
+/* logo */
+.logo {
+    color: #212121;
+}
+.logo .web {
+    color: #2196F3;
+}
+.logo {
+    text-decoration: none;
+}
+
+/* Посилання по сайту */
+.link {
+    text-decoration: none;
+    color: #212121;
+}
+.nav-list .link.current {
+    color: #2196F3;
+}
+.link:hover,
+.link:focus {
+    color: #2196F3;
+}
+.nav-list {
+    list-style: none;
+}
+.address-list {
+    list-style: none;
+}
+.address {
+    text-decoration: none;
+    color: #757575;
+}
+.address:hover,
+.address:focus {
+    color: #2196F3;
+}
+
+/* hero */
+.button {
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
+/* переваги секція */
+.benefits-list {
+    list-style: none;
+}
+.benefits-list .text {
+    color: #757575;
+}
+
+
+/* послуги */
+.services-list {
+    list-style: none;
+}
+/* команда */
+.team-list {
+    list-style: none;
+}
+.team-list .text {
+    color: #757575;
+}
+/* footer */
+.address-list .map {
+    color: #FFFFFF;
+}
+.footer {
+    background-color: #2F303A;
+}
+.logo.footer {
+    color: #FFFFFF;
+}
+
+
+
+
+
